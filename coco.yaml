@@ -1,6 +1,6 @@
 # coco.yaml
-train: /coco_dataset/train2017  # 학습 이미지 경로
-val: /coco_dataset/val2017      # 검증 이미지 경로
+train: /Users/LeeHeejae/projects/sw_term_project/coco_dataset/train2017  # 학습 이미지 경로
+val: /Users/LeeHeejae/projects/sw_term_project/coco_dataset/val2017     # 검증 이미지 경로
 
 # COCO 클래스 이름
 names:
